@@ -6,4 +6,4 @@ And the third.
 
 Final line.
 
-Right now I'm in the middle of working on this file.
+Right now I'm in the middle of working on this file. I mean it for git-branch.
