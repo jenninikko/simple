@@ -1,4 +1,4 @@
-This is the first line used for the pull request test.
+This is the first line used for the rebase test as well.
 
 This is the second line.
 
